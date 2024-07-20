@@ -1,0 +1,5 @@
+#python files
+*.py
+
+#text files
+*.txt
